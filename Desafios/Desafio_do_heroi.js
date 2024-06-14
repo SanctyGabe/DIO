@@ -1,6 +1,7 @@
+//Classificação de todos os rankings de acordo com o XP
 let nome = "Sancty"
 let xp = 3000
-
+//Tive alguma dificuldade com a parte de `` e $ mas isso possivelmente eu vou aprender no curso de JS
 if (xp <= 1000){
     console.log(`O Herói de nome ${nome}, está no nivel de Ferro`);
 } else if (xp >= 1001 && xp < 2000){
