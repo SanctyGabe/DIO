@@ -11,4 +11,4 @@ const pokemon = [
 
 pokemon.forEach(poke => {
   console.log(`${poke[0]} cadastrado com sucesso`);
-});screen 
+});
