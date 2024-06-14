@@ -1,5 +1,5 @@
 let nome = "Sancty"
-let xp = 6000
+let xp = 3000
 
 if (xp <= 1000){
     console.log(`O Herói de nome ${nome}, está no nivel de Ferro`);
